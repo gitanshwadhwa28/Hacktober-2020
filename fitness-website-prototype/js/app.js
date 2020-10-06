@@ -2,7 +2,7 @@
 Vue.component('vue', {
   data: function () {
     return {
-      footer_txt: '© Copyright 2020 DikshaWadhwa. All rights reserved.'
+      footer_txt: '© Copyright 2020 XYZ. All rights reserved.'
     }
   },
   template: '<div> <p class="footer-text"> {{footer_txt}} </p></div>'
